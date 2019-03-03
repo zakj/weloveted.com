@@ -1,8 +1,12 @@
 <template>
   <div id="app">
-    <div class="content" @click="next" v-fit-text>
-      <div v-if="response.text" v-html="response.text"></div>
-      <img v-if="response.image" :src="response.image">
+    <div class="content" @click="next">
+      <transition name="fade-text" mode="out-in">
+        <div v-fit-text :class="{both: response.text && response.image}" v-html="response.text" :key="responseIndex"></div>
+      </transition>
+      <transition name="fade-img" mode="out-in">
+        <img v-if="response.image" :class="{both: !!response.text}" :src="response.image" :key="responseIndex">
+      </transition>
     </div>
     <footer>🌯 no idea, read code 🌯</footer>
   </div>
@@ -110,10 +114,37 @@ body
   > div
     max-width 30em
     margin-bottom 30px
+    &.both
+      padding-bottom 20vh
   > img
     max-height 30vh
+    position absolute
+    &.both
+      bottom 20vh
 
 footer
   grid-area footer
   text-align right
+
+.fade-text-enter
+  opacity 0
+  transform translateY(-3vh)
+.fade-text-enter-active
+  transition all 300ms ease-out
+
+.fade-text-leave-to
+  opacity 0
+.fade-text-leave-active
+  transition all 300ms ease-in
+
+.fade-img-enter
+  opacity 0
+  transform translateY(3vh)
+.fade-img-enter-active
+  transition all 300ms ease-out
+
+.fade-img-leave-to
+  opacity 0
+.fade-img-leave-active
+  transition all 300ms ease-in
 </style>

@@ -1,0 +1,85 @@
+{
+  "Christine": [
+    {"text": "he and Ariadne look quite a bit like each other"},
+    {"text": "is it bad if I say 'brought Ariadne into our lives'? Also I think I am outing myself by saying this"},
+    {"text": "he knows everything"}
+  ],
+  "Justin": [
+    {"text": "I mean Ted has always been an amazing colleague to work with, always willing to answer my often ridiculous questions"},
+    {"text": "Without a doubt his deadpan humor"}
+  ],
+  "Cassie": [
+    {"text": "I didn't connect Ted to his github account name/picture for 2 years. I thought the dude with the hoodie was some remote contractor.",
+      "image": "/images/github-avatar.jpg"},
+    {"text": "Our Statuspage HugOps article!                       ", "image": "/images/hugops.png"},
+    {"text": "His razor sharp wit!"}
+  ],
+  "Anlu": [
+    {"text": "Ted has one of the most obscure PhDs I have ever heard of. Something to do with classical Romanian music maybe. I think he might be happier he's working in tech now :D"},
+    {"text": "Did you know Ted invented TED talks? Just kidding. Josh Wymer asked that question one day when we were discussing something totally different and I thought it was the funniest thing ever. It was all in the timing and delivery, which is hard to reproduce through text. He has contributed great things to front end! And also has one of the most beautiful dogs I have ever seen."},
+    {"text": "His dry sense of humor is unparalleled."}
+  ],
+  "Vlado": [
+    {"text": "Dressing up as Morty from Ricky & Morty cartoon"},
+    {"text": "The godfather of Flows"},
+    {"text": "Caring about Mixpanel team & tech stack"}
+  ],
+  "Brandon": [
+    {"text": "Ted's all-hands presence is incredible. The dry, deadpan humor always makes me laugh, and makes me wish he presented more often.<br>He also has hosted many a helpful \"learn about Mixpanel\" talk. The architecture overview was particularly useful for me &mdash; I'm very thankful to Ted for making me less of a noob in such topics."}
+  ],
+  "Rory": [
+    {"text": "One time Illirik thought Ted broke something. The whole Seattle office heard him yell it in surprise. Then, 2 minutes later, he said, \"No he didn't, nevermind.\""},
+    {"text": "Ted always pushes to leave things at least as clean as you found them, and often finds PRs he's not assigned to to leave useful advice to accomplish just that."},
+    {"text": "Soft-spoken badass."}
+  ],
+  "Mack": [
+    {"text": "Working on the monorepo changes to make code sharing and front-end development much easier in general."}
+  ],
+  "Ryan D.": [
+    {"text": "Makes me laugh and encourages my ideas regularly."},
+    {"text": "We have played ping pong more times than I can count and I always look forward to more. Ted is one the the coolest and most insightful persons I have gotten the chance to work with at any company. Really dig Theodor"}
+  ],
+  "Noj": [
+    {"text": "Person 1 in Seattle: “oh my God, I found a mistake in Ted’s code.”<br>Person 2: “Are you telling me Ted is human?”<br>After 5 mins, Person 1: “Oh shit, never mind, it’s a bug in my code, Ted is an AI”"},
+    {"text": "That guy knows almost everything about almost everything. Saves us a lot of Google bandwidth. How do you think we saved so much money for dollars and sense?"},
+    {"text": "He isn’t human"}
+  ],
+  "Jordan": [
+    {"text": "On January 25th, 2017 Theodor Dumitrescu commented \"nice, pretty clean for some hairy changes\" while approving a PR of mine. It is a moment I have never forgotten. Ilya Kamens gifted me a framed print out for my birthday that year.",
+    "image": "/images/pr-comment.png"},
+    {"text": "Ted is the instructor behind a majority of my good engineering habits. He was the lead in my first major engineering project and helped point the way when I went astray."},
+    {"text": "Ted is like a carpenter that makes stairs. He is always thinking of the steps ahead. It not only pushes the org to be stronger and forward-thinking, but it helps ICs see a vision."}
+  ],
+  "Daniel": [
+    {"text": "I didn't have an official mentor when I first started at Mixpanel, and there was a lot to learn. I met a lot of very smart people, but sometimes figuring out who to go to when I had a question was tough. A year later, there's still a lot to learn and it can still be intimidating, but Ted has always been someone I could rely on for help. I try not to bug him too much when I have other options, but knowing he is someone I can reach out to about pretty much anything is comforting. And though he may have birthed the \"read code\" mantra, he has never turned me away when I had a question. Also, he shares Ariadne with us. ❤️"}
+  ],
+  "Chi": [
+    {"text": "Ted always make himself available for technical discussion, oh also the deploy workflow is so much better now."},
+    {"text": "Pragmatism"}
+  ],
+  "Ryan B.": [
+    {"text": "His use of slack emojis brightens my day."}
+  ],
+  "Alex": [
+    {"text": "The list here is pretty long: helping GOOT several times, guiding me in the ways of all things full-stack (appdb, nginx, kubernetes, etc. etc.). I will call out Ted's musical life. Ted has invited me to his singing concerts in Seattle and the music was beautiful, it definitely improved my life. He also gave me the On Avery Island LP, which I greatly appreciate! Ted's prowess on the keyboard combined with his musical personality make him a true treasure in my book."},
+    {"text": "I appreciate Ted's all-knowing wizard-like capabilities. I don't know how he does it, but he is somehow everywhere at once."}
+  ],
+  "Josh T.": [
+    {"image": "/images/slack-jira.png"},
+    {"text": "Monorepo, pioneering the GCP devbox life, magically responding to all questions in all slack channels everywhere at once"},
+    {"text": "Immensely helpful and generous with his time. He always lends an ear and offers a hand to anyone who asks."}
+  ],
+  "Anna": [
+    {"text": "Ted's always very patient and willing to answer any and all of my questions. Whether it's giving me the rundown on how to upgrade dependencies or just sanity checking ideas I have, he's always down to help out. Thank you!!!<br><br>Also Ariadne is always the best ever and makes Fridays also the best ever thus making my life better! Thanks Ted!"}
+  ],
+  "Tiffany": [
+    {"text": "I just love how his face looks like this dog:                           ", "image": "/images/doge.jpg"},
+    {"text": "Reverting to the monorepo! I love how I can work twice as fast by not having to worry about mixpanel-common or for having five PRs for one feature."},
+    {"text": "He is invested in doing the right thing at the right time and is willing to make hard decisions (like switching to multiple repos and then the monorepo) for everyone's benefit, and that's necessary!"}
+  ],
+  "Jing": [
+    {"text": "Ted was one of the engineers who interviewed me. He gave me the JS refactor question. I remember towards the end Ted was sure that I already broke the code after my lame attempt so we decided to stop there. It turned out the code was still runnable! Absolutely the worst round of that day and I have been traumatized till this day >_< j/k. Thank you for not failing me afterwards, Ted!"},
+    {"text": "Ted is always one of the first engineers who answer my questions on slack, and probably all other engineers' questions."},
+    {"text": "Ted is very knowledgeable about our system, and just very knowledgeable in general. He is always generous to share what he knows with people."}
+  ]
+}
